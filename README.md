@@ -1,1 +1,1 @@
-Simply script to automatically open and play Cookie Clicker in Chrome
+Simple script to automatically open and play Cookie Clicker in Chrome
